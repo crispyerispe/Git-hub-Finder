@@ -20,12 +20,12 @@ body {
   font-size: 1rem;
   line-height: 1.6;
   color: #333;
-  background-color: #F1F2EE; 
+  background-color: #f1f2ee;
+  background-size: cover;
 }
 
 h1 {
-  color: #F0C808;
-  
+  color: #d9cab3;
 }
 
 a {
@@ -117,11 +117,11 @@ img {
 /* Cards */
 .card {
   padding: 1rem;
-  border: #848C8E 1px solid;
+  border: #848c8e 1px solid;
   margin: 0.7rem 0;
-  color: #DCF763;
+  color: #90323d;
   font-size: 15px;
-  background-color: #BFB7B6;
+  background-color: #bfb7b6;
 }
 
 /* List */
@@ -310,7 +310,7 @@ table th {
   width: 100%;
   opacity: 0.9;
   margin-bottom: 1rem;
-  background-color: #848C8E;
+  background-color: #5e0b15;
 }
 
 .navbar ul {
@@ -320,7 +320,7 @@ table th {
 .navbar a {
   padding: 0.45rem;
   margin: 0 0.25rem;
-  color: #DCF763;
+  color: #d9cab3;
   font-weight: bold;
 }
 
